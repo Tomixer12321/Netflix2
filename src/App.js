@@ -1,7 +1,7 @@
-
+import OneMovieSlider from "./components/OneMovieSlider"
 const App=()=>{
   return <div>
-    <h1>test</h1>
+    <OneMovieSlider />
   </div>
 }
 export default App
