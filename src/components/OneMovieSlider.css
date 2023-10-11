@@ -1,0 +1,22 @@
+.one-movie {
+    width: 289px;
+    text-align: center;
+    color: #e5e5e5;
+    box-shadow: 0px 0px 15px #e50914;
+    padding: 10px;
+}
+
+
+.one-movie img {
+    width: 283px;
+    height: 160px;
+}
+
+
+.one-movie button {
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+    color: #e50914;
+    cursor: pointer;
+}

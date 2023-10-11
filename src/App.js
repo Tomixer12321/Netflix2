@@ -1,6 +1,6 @@
 import OneMovieSlider from "./components/OneMovieSlider"
 const App=()=>{
-  return <div>
+  return <div className="slider">
     <OneMovieSlider />
   </div>
 }
